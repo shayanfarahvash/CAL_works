@@ -1,12 +1,15 @@
-Overview
-The Jupyter notebook named Prac%cal_Applica%on_1 can be used to gain insight about
+Overview:
+
+The Jupyter notebook named Practical_Application_1 can be used to gain insight about
 acceptance rate of a food coupon when it is oﬀered to a driver of a vehicle in use.
 
-Data
+Data:
+
 This data is from the UCI Machine Learning Repository and was collected via a survey on
 Amazon Mechanical Turk.
 
-Findings Summary
+Findings Summary:
+
 Roughly 56.9% of coupon oEerings were accepted, but depending on the type of coupon,
 the acceptance rates were widely diEerent with Carry out & Take away being the most
 popular and Bar coupon being the least.
